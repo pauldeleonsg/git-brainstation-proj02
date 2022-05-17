@@ -1,0 +1,38 @@
+/* VIDEO.CSS */
+/* 
+References:
+https://www.w3schools.com/howto/howto_css_fullscreen_video.asp
+https://codepen.io/pbutcher/pen/yLLKbNo
+*/
+
+.videodiv {
+    width:100%; 
+    max-width:1280px; 
+    margin:auto; 
+    display:block; 
+    position: 
+    relative;
+}
+
+.videotravel {
+    width:100%; 
+    height:auto 
+}
+
+.videotitle { 
+    position: absolute; 
+    top: 0; 
+    left: 3.125rem;
+    
+    width: 25rem;
+    height: 100%;
+
+    color: #ffffff;
+    text-shadow: -0.0625rem -0.0625rem 0 #000000, 0.0625rem -0.0625rem 0 #000000, -0.0625rem 0.0625rem 0 #000000, 0.0625rem 0.0625rem 0 #000000;
+}
+
+.videotitle > h1 { 
+    font-size: 4.2rem;
+    color: #ffff00;
+    text-shadow: -0.0625rem -0.0625rem 0 #000000, 0.0625rem -0.0625rem 0 #000000, -0.0625rem 0.0625rem 0 #000000, 0.0625rem 0.0625rem 0 #000000;
+}

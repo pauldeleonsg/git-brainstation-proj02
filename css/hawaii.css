@@ -14,7 +14,7 @@
 }
 
 .maintitle > h1 {
-    font-size: 4rem;
+    font-size: 3rem;
     color: #ffffff;
     text-shadow: -0.0625rem -0.0625rem 0 #000000, 0.0625rem -0.0625rem 0 #000000, -0.0625rem 0.0625rem 0 #000000, 0.0625rem 0.0625rem 0 #000000;
 }
@@ -71,3 +71,4 @@
 .maincard li:nth-child(even) {
     background-color: #ffffff;
 }
+
