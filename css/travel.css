@@ -1,4 +1,4 @@
-/* GREECE.CSS */
+/* TRAVEL.CSS */
 
 .main {
     width: 100%;
@@ -7,7 +7,6 @@
     margin: 0;
 
     background-color: #c6c6c6;
-    background-image: url('../assets/images/greece.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -71,3 +70,4 @@
 .maincard li:nth-child(even) {
     background-color: #ffffff;
 }
+

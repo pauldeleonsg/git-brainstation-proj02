@@ -148,14 +148,33 @@ body {
 
 .recommendcard1 {
     background-image: url("../assets/images/hawaii.jpg");
+    filter: none;
+}
+
+.recommendcard1:hover {
+    filter: contrast(120%);
+    transition: filter 0.4s ease-in-out;
+    box-shadow: 0.0625rem 0.0625rem 0.625rem 0 rgba(0,0,0,.8);
 }
 
 .recommendcard2 {
     background-image: url("../assets/images/iceland.jpg");
 }
 
+.recommendcard2:hover {
+    filter: contrast(120%);
+    transition: filter 0.4s ease-in-out;
+    box-shadow: 0.0625rem 0.0625rem 0.625rem 0 rgba(0,0,0,.8);
+}
+
 .recommendcard3 {
     background-image: url("../assets/images/greece.jpg");
+}
+
+.recommendcard3:hover {
+    filter: contrast(120%);
+    transition: filter 0.4s ease-in-out;
+    box-shadow: 0.0625rem 0.0625rem 0.625rem 0 rgba(0,0,0,.8);
 }
 
 /* FOOTER */
