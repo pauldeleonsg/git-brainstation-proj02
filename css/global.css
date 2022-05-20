@@ -196,6 +196,16 @@ body {
     color: #335576;
 }
 
+.footercard a {
+    text-decoration: none;
+    color: #335576;
+}
+
+.footercard a:hover {
+    text-decoration: underline;
+    color: #335576;
+}
+
 .footercard ul, li {
     padding-left: 0;
     list-style: none;
