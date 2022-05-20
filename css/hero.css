@@ -56,8 +56,19 @@
   
     margin: 0.25rem 0.125rem;
     border-radius: 0.5rem;
+
 }
 
+.herotext > button:hover {
+    font-weight: bold;
+    background: linear-gradient(#b24310, #db7a4e);
+}
+
+.herotext > button:active {
+    font-weight: bold;
+    color: #ffff00;
+    background-color: #b24310;
+}
 
 .heropic > img {
     max-height: 18rem;

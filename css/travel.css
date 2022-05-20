@@ -71,3 +71,19 @@
     background-color: #ffffff;
 }
 
+.main__hawaii {
+    background-image: url('../assets/images/hawaii.jpg');
+}
+
+.main__iceland {
+    background-image: url('../assets/images/iceland.jpg');
+}
+
+.main__greece {
+    background-image: url('../assets/images/greece.jpg');
+}
+
+.main__getstarted {
+    background-image: url('../assets/images/getstarted.jpg');
+}
+
